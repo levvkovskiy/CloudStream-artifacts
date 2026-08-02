@@ -1,3 +1,22 @@
-{
-    "plugins": []
-}
+[
+    {
+        "iconUrl": "https://www.youtube.com/favicon.ico",
+        "fileHash": "sha256-177d89270a01016d6a9582bc6f9f6c6a106a22a81a0acd5e57978f6ef6cfe5cc",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/levvkovskiy/LevkovskiyCloudStream",
+        "fileSize": 9724,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "levvkovskiy"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "YoutubeProvider",
+        "description": "Test provider using official YouTube via NewPipeExtractor \u2014 for verifying build pipeline",
+        "url": "https://raw.githubusercontent.com/levvkovskiy/LevkovskiyCloudStream/builds/YoutubeProvider.cs3",
+        "name": "YoutubeProvider"
+    }
+]

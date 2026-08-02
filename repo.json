@@ -1,0 +1,8 @@
+{
+    "name": "LevkovskiyCloudStream",
+    "description": "CloudStream Extensions repository for movie streaming providers - Ukrainian content with authentication",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/plugins.json"
+    ]
+}

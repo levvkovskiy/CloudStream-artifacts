@@ -66,10 +66,10 @@
         "name": "KinoVezhaProvider"
     },
     {
-        "fileHash": "sha256-a94278e4362464ead311b48f33e9d7899bcf8d36f96bb9b34cb9dc5e6aea1d6b",
+        "fileHash": "sha256-ff723fedcb10a0c67ecb482fae0581452ff38ecf4742e3bbe41009aa37a21eb9",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 6729,
+        "fileSize": 8269,
         "status": 1,
         "language": "uk",
         "authors": [

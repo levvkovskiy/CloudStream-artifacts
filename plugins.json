@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "fileHash": "sha256-df0646b325e3113aa9731d739439ab4e7ce66563212e9ccf6181867209bc24de",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
+        "fileSize": 2330,
+        "status": 1,
+        "language": "uk",
+        "authors": [
+            "Levkovskiy"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "RezkaProvider",
+        "description": "HDRezka (Rezka.ag) provider for Ukrainian movies and TV series",
+        "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/builds/RezkaProvider.cs3",
+        "name": "RezkaProvider"
+    }
+]

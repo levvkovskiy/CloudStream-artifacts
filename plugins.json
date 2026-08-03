@@ -1,9 +1,9 @@
 [
     {
-        "fileHash": "sha256-30951f6e4a86175b2238c1f19e56c7b77aefe1f9688e22094d26dbb199e79198",
+        "fileHash": "sha256-1b344fc99f36105476a2c944c9457545863fe8367c0e8551ac0346504bdcb3cb",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 2325,
+        "fileSize": 2329,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -37,5 +37,26 @@
         "description": "Test provider for testing",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/TestProvider.cs3",
         "name": "TestProvider"
+    },
+    {
+        "fileHash": "sha256-60307c817eb63de73b4e00144842c28ef195f3aeef359d37718a410dbfd4d95f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
+        "fileSize": 2334,
+        "status": 1,
+        "language": "uk",
+        "authors": [
+            "Levkovskiy"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "UAFixProvider",
+        "description": "UAFLIX provider for Ukrainian Netflix content",
+        "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/UAFixProvider.cs3",
+        "name": "UAFixProvider"
     }
 ]

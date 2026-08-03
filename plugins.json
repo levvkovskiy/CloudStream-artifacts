@@ -86,25 +86,6 @@
         "name": "RezkaProvider"
     },
     {
-        "fileHash": "sha256-d6b02d67bfb9bae0811fb24aeea3dda7f8233f5b2a5c51382f95e404314dccdd",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 2292,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Levkovskiy"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "TestProvider",
-        "description": "Test provider for testing",
-        "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/TestProvider.cs3",
-        "name": "TestProvider"
-    },
-    {
         "fileHash": "sha256-60307c817eb63de73b4e00144842c28ef195f3aeef359d37718a410dbfd4d95f",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",

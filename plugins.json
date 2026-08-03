@@ -1,9 +1,9 @@
 [
     {
-        "fileHash": "sha256-f1768be2828070fa73ae37b21f87a90881261d9860b442960ae412fbcef01274",
+        "fileHash": "sha256-6df08e170f7104241b45a04682c045fc0448b97d48c3deb392d09066d35f186c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 6243,
+        "fileSize": 6244,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -22,10 +22,10 @@
         "name": "CikavaIdeyaProvider"
     },
     {
-        "fileHash": "sha256-b74df4626787c9b80e0de14e290747051f1846a72083b5d03b63f0291ecc8352",
+        "fileHash": "sha256-5248723dcec3462e42d2e4254e957b59d906fea5438a6dda3f7a71c51cf9ecf9",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 6277,
+        "fileSize": 6275,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -44,10 +44,10 @@
         "name": "EneyidaProvider"
     },
     {
-        "fileHash": "sha256-988777aa668daf730a72cdce85cde253f4e527c57b732b645de58fdf377ad271",
+        "fileHash": "sha256-e51c36e682b6819ad8784d9a9c28ccf27da51e3651e38f8fe37ac4295fa46e99",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 6277,
+        "fileSize": 6271,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -66,10 +66,10 @@
         "name": "KinoVezhaProvider"
     },
     {
-        "fileHash": "sha256-3457dcb7c85372e18a2ee77f1a9d011530ee46c61ec53ad19d0d46db2e96da37",
+        "fileHash": "sha256-83276f0a31de832aeaae34008c79d3d557fcacdb9e4094e58da2a3c34b3e03df",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 9834,
+        "fileSize": 8229,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -86,10 +86,10 @@
         "name": "RezkaProvider"
     },
     {
-        "fileHash": "sha256-64aecacb6ee36dad3ed539b6807d6ccbdb4e714dda174cc7048c4be2344f4457",
+        "fileHash": "sha256-c78e2b07b33c0900e73fbc117f33ff764bd836598624f4db834c4bd17bd0c6d6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 8953,
+        "fileSize": 7325,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -107,10 +107,10 @@
         "name": "UAFixProvider"
     },
     {
-        "fileHash": "sha256-52e20071999f654b1c97fd4382d51f106259cc0f8bc3fd239daa0a0d18c2c3c4",
+        "fileHash": "sha256-4dc32296c76772eba63523cc4b63f0f5e217939dfd4ff65cb42c36421746b8a7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 8932,
+        "fileSize": 8936,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -129,10 +129,10 @@
         "name": "UASerialsProvider"
     },
     {
-        "fileHash": "sha256-5e9b4ce38f298db4b573831642ed95d015ae1c95e6b0faf44736ce58dbb7aaae",
+        "fileHash": "sha256-121152a2dcb3a09b9609ce371f2ec4b0a40c6f5f609707e52bac75e533bda8a0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 6224,
+        "fileSize": 6223,
         "status": 1,
         "language": "uk",
         "authors": [

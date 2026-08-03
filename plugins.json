@@ -22,6 +22,50 @@
         "name": "CikavaIdeyaProvider"
     },
     {
+        "fileHash": "sha256-b74df4626787c9b80e0de14e290747051f1846a72083b5d03b63f0291ecc8352",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
+        "fileSize": 6277,
+        "status": 1,
+        "language": "uk",
+        "authors": [
+            "Levkovskiy"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "EneyidaProvider",
+        "description": "Eneyida provider for Ukrainian films and series",
+        "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/EneyidaProvider.cs3",
+        "name": "EneyidaProvider"
+    },
+    {
+        "fileHash": "sha256-988777aa668daf730a72cdce85cde253f4e527c57b732b645de58fdf377ad271",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
+        "fileSize": 6277,
+        "status": 1,
+        "language": "uk",
+        "authors": [
+            "Levkovskiy"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "KinoVezhaProvider",
+        "description": "KinoVezha provider for Ukrainian films and series",
+        "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/KinoVezhaProvider.cs3",
+        "name": "KinoVezhaProvider"
+    },
+    {
         "fileHash": "sha256-a94278e4362464ead311b48f33e9d7899bcf8d36f96bb9b34cb9dc5e6aea1d6b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",

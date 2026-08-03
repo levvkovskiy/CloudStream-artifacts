@@ -1,22 +1,41 @@
 [
     {
-        "iconUrl": "https://www.youtube.com/favicon.ico",
-        "fileHash": "sha256-177d89270a01016d6a9582bc6f9f6c6a106a22a81a0acd5e57978f6ef6cfe5cc",
+        "fileHash": "sha256-30951f6e4a86175b2238c1f19e56c7b77aefe1f9688e22094d26dbb199e79198",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/levvkovskiy/LevkovskiyCloudStream",
-        "fileSize": 9724,
+        "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
+        "fileSize": 2325,
+        "status": 1,
+        "language": "uk",
+        "authors": [
+            "Levkovskiy"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "RezkaProvider",
+        "description": "HDRezka provider for Ukrainian content",
+        "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/RezkaProvider.cs3",
+        "name": "RezkaProvider"
+    },
+    {
+        "fileHash": "sha256-d6b02d67bfb9bae0811fb24aeea3dda7f8233f5b2a5c51382f95e404314dccdd",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
+        "fileSize": 2292,
         "status": 1,
         "language": "en",
         "authors": [
-            "levvkovskiy"
+            "Levkovskiy"
         ],
         "tvTypes": [
-            "Others"
+            "Movie"
         ],
         "version": 1,
-        "internalName": "YoutubeProvider",
-        "description": "Test provider using official YouTube via NewPipeExtractor \u2014 for verifying build pipeline",
-        "url": "https://raw.githubusercontent.com/levvkovskiy/LevkovskiyCloudStream/builds/YoutubeProvider.cs3",
-        "name": "YoutubeProvider"
+        "internalName": "TestProvider",
+        "description": "Test provider for testing",
+        "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/TestProvider.cs3",
+        "name": "TestProvider"
     }
 ]

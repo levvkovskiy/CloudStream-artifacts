@@ -86,10 +86,10 @@
         "name": "RezkaProvider"
     },
     {
-        "fileHash": "sha256-c78e2b07b33c0900e73fbc117f33ff764bd836598624f4db834c4bd17bd0c6d6",
+        "fileHash": "sha256-2d6f8c54efee2cc559908c37ba52f7f5760ff058dd2f97bb3b5357d60651eb34",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 7325,
+        "fileSize": 17892,
         "status": 1,
         "language": "uk",
         "authors": [

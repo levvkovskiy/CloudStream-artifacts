@@ -44,10 +44,10 @@
         "name": "EneyidaProvider"
     },
     {
-        "fileHash": "sha256-e51c36e682b6819ad8784d9a9c28ccf27da51e3651e38f8fe37ac4295fa46e99",
+        "fileHash": "sha256-560c0278435b66cb4c2c8c48742a61c3249306a48d5dc6bea48944d01742a619",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 6271,
+        "fileSize": 20604,
         "status": 1,
         "language": "uk",
         "authors": [

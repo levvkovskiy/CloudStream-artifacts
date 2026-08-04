@@ -85,10 +85,10 @@
         "name": "KinoVezhaProvider"
     },
     {
-        "fileHash": "sha256-51934e4b42ef130297c6213ba5176de923df6ca4aab2716e48e082df0bcb4fcb",
+        "fileHash": "sha256-425f4d199fce1c03ae035ee56b2d066271c856bf56ddf5078c2b8f43943786d3",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 13459,
+        "fileSize": 13846,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -98,7 +98,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "RezkaProvider",
         "description": "HDRezka provider for Ukrainian content",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/RezkaProvider.cs3",

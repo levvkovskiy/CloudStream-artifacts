@@ -1,9 +1,9 @@
 [
     {
-        "fileHash": "sha256-0a6c6da8365e7205997276f741326b69411439e51905dca7ebd9b8e21468f795",
+        "fileHash": "sha256-b779d174ed8763a04e9adf12018f817a03615cb421ececcb318deed1ba91009f",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 11994,
+        "fileSize": 11995,
         "status": 1,
         "language": "en",
         "authors": [
@@ -12,17 +12,17 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 2,
+        "version": 10,
         "internalName": "ArchiveOrgProvider",
         "description": "Archive.org provider for public domain content",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/ArchiveOrgProvider.cs3",
         "name": "ArchiveOrgProvider"
     },
     {
-        "fileHash": "sha256-6df08e170f7104241b45a04682c045fc0448b97d48c3deb392d09066d35f186c",
+        "fileHash": "sha256-fc797789828f414296ae091c2d9a22a61f21248e202d316daabdb970c0d5777a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 6244,
+        "fileSize": 6245,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -34,17 +34,17 @@
             "Cartoon",
             "Anime"
         ],
-        "version": 1,
+        "version": 10,
         "internalName": "CikavaIdeyaProvider",
         "description": "CikavaIdeya provider for Ukrainian series and movies",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/CikavaIdeyaProvider.cs3",
         "name": "CikavaIdeyaProvider"
     },
     {
-        "fileHash": "sha256-5248723dcec3462e42d2e4254e957b59d906fea5438a6dda3f7a71c51cf9ecf9",
+        "fileHash": "sha256-3d0e83a5d62b8f3468fe7f19f5ea1754a13b8afa3a373467cd17b18e73bf4cdf",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 6275,
+        "fileSize": 6279,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -56,17 +56,17 @@
             "Cartoon",
             "Anime"
         ],
-        "version": 1,
+        "version": 10,
         "internalName": "EneyidaProvider",
         "description": "Eneyida provider for Ukrainian films and series",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/EneyidaProvider.cs3",
         "name": "EneyidaProvider"
     },
     {
-        "fileHash": "sha256-560c0278435b66cb4c2c8c48742a61c3249306a48d5dc6bea48944d01742a619",
+        "fileHash": "sha256-9563dfc34b636001db713372a6b98c1c16a432882996c7b8ac5bab8b7856c1f8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 20604,
+        "fileSize": 20605,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -78,17 +78,17 @@
             "Cartoon",
             "Anime"
         ],
-        "version": 1,
+        "version": 10,
         "internalName": "KinoVezhaProvider",
         "description": "KinoVezha provider for Ukrainian films and series",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/KinoVezhaProvider.cs3",
         "name": "KinoVezhaProvider"
     },
     {
-        "fileHash": "sha256-d1238720ada1c63d5fb7a836699c1862c43291e51d89732d4a54d740c97e73da",
+        "fileHash": "sha256-bc3b3befa5646c8496ab7596367bdee1cf2a5d4e46df28fa6edd06074c51e962",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 10005,
+        "fileSize": 10006,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -98,17 +98,17 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 3,
+        "version": 11,
         "internalName": "RezkaProvider",
         "description": "HDRezka provider for Ukrainian content",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/RezkaProvider.cs3",
         "name": "RezkaProvider"
     },
     {
-        "fileHash": "sha256-050deb1d3c4fe2b3392e503942b3d93c994606c080a2f1b1e54a7abb8ef60e63",
+        "fileHash": "sha256-ef1dd5cf5ce3bc670e391778cc64c02cb6c3b5d64bf5edcee29c3b38e0c8415a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 17892,
+        "fileSize": 18132,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -119,17 +119,17 @@
             "TvSeries",
             "Anime"
         ],
-        "version": 3,
+        "version": 11,
         "internalName": "UAFixProvider",
         "description": "UAFLIX provider for Ukrainian Netflix content",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/UAFixProvider.cs3",
         "name": "UAFixProvider"
     },
     {
-        "fileHash": "sha256-4dc32296c76772eba63523cc4b63f0f5e217939dfd4ff65cb42c36421746b8a7",
+        "fileHash": "sha256-ea1b69b98118f5a3538efbcd67c91e76e4f62f2b0758339729544c8604e1296a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 8936,
+        "fileSize": 8937,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -141,17 +141,17 @@
             "Cartoon",
             "Anime"
         ],
-        "version": 1,
+        "version": 10,
         "internalName": "UASerialsProvider",
         "description": "UASerials provider for Ukrainian series and movies",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/UASerialsProvider.cs3",
         "name": "UASerialsProvider"
     },
     {
-        "fileHash": "sha256-121152a2dcb3a09b9609ce371f2ec4b0a40c6f5f609707e52bac75e533bda8a0",
+        "fileHash": "sha256-f39786365aec6c55fcf0fc7d3028d03e42796b35b9a4719036ec3741f7481b84",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 6223,
+        "fileSize": 6224,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -163,7 +163,7 @@
             "Cartoon",
             "Anime"
         ],
-        "version": 1,
+        "version": 10,
         "internalName": "UASerialTVProvider",
         "description": "UASerialTV provider for Ukrainian series and movies",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/UASerialTVProvider.cs3",

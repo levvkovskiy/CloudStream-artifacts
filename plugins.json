@@ -1,9 +1,9 @@
 [
     {
-        "fileHash": "sha256-669d55c85b74b477b287df3452de0afe20e0fa1ce53ffa452576b2630f341f57",
+        "fileHash": "sha256-0a6c6da8365e7205997276f741326b69411439e51905dca7ebd9b8e21468f795",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 12006,
+        "fileSize": 11994,
         "status": 1,
         "language": "en",
         "authors": [
@@ -12,7 +12,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "ArchiveOrgProvider",
         "description": "Archive.org provider for public domain content",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/ArchiveOrgProvider.cs3",

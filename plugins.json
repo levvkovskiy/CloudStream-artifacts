@@ -126,10 +126,10 @@
         "name": "UAFixProvider"
     },
     {
-        "fileHash": "sha256-4dc32296c76772eba63523cc4b63f0f5e217939dfd4ff65cb42c36421746b8a7",
+        "fileHash": "sha256-c7379c3fb3a20bb24aca10e5ca6dbf1f19bacd3017db6dd61cb2601085410dbd",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 8936,
+        "fileSize": 25420,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -141,7 +141,7 @@
             "Cartoon",
             "Anime"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "UASerialsProvider",
         "description": "UASerials provider for Ukrainian series and movies",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/UASerialsProvider.cs3",

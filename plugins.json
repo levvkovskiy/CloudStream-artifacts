@@ -126,6 +126,27 @@
         "name": "UAFixProvider"
     },
     {
+        "fileHash": "sha256-9ff500553e2c173ec168c90b90a035967131d87d9b4e37b955ce736fbb013a0b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
+        "fileSize": 10345,
+        "status": 1,
+        "language": "uk",
+        "authors": [
+            "Levkovskiy"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "UAKinoProvider",
+        "description": "UAKino provider for Ukrainian movies and series",
+        "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/UAKinoProvider.cs3",
+        "name": "UAKinoProvider"
+    },
+    {
         "fileHash": "sha256-c7379c3fb3a20bb24aca10e5ca6dbf1f19bacd3017db6dd61cb2601085410dbd",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",

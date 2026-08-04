@@ -85,10 +85,10 @@
         "name": "KinoVezhaProvider"
     },
     {
-        "fileHash": "sha256-83276f0a31de832aeaae34008c79d3d557fcacdb9e4094e58da2a3c34b3e03df",
+        "fileHash": "sha256-37b2354825b2de3166ffb037fffa92206eefd4fad877c32925f45d8e80c2bd61",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
-        "fileSize": 8229,
+        "fileSize": 8230,
         "status": 1,
         "language": "uk",
         "authors": [
@@ -98,14 +98,14 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "RezkaProvider",
         "description": "HDRezka provider for Ukrainian content",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/RezkaProvider.cs3",
         "name": "RezkaProvider"
     },
     {
-        "fileHash": "sha256-2d6f8c54efee2cc559908c37ba52f7f5760ff058dd2f97bb3b5357d60651eb34",
+        "fileHash": "sha256-8c78cf81887e43c32ed0c32b9b15fe3b253eb1c73c485958302652d242f90501",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/levvkovskiy/CloudStream-artifacts",
         "fileSize": 17892,
@@ -119,7 +119,7 @@
             "TvSeries",
             "Anime"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "UAFixProvider",
         "description": "UAFLIX provider for Ukrainian Netflix content",
         "url": "https://raw.githubusercontent.com/levvkovskiy/CloudStream-artifacts/main/UAFixProvider.cs3",
